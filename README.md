@@ -1,3 +1,3 @@
 # site
 
-link : https://github.com/iMohitPant/mysite
+link : https://imohitpant.github.io/mysite/

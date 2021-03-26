@@ -165,3 +165,38 @@ hr {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
+
+ /* Media breakpoints  */
+
+  @media (max-width : 930px)
+  {
+    .top-cloud{
+        position: absolute;
+        right: 30px;
+        top: 50px;
+    }
+    
+    .bottom-cloud{
+        position: absolute;
+        left: 150px;
+        bottom: 250px;
+    }
+
+  }
+
+  @media (max-width : 730px)
+  {
+    .top-cloud{
+        position: absolute;
+        right: 30px;
+        top: 50px;
+    }
+    
+    .bottom-cloud{
+        position: absolute;
+        left: 50px;
+        bottom: 80px;
+    }
+
+  }
